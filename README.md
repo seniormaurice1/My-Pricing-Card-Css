@@ -1,5 +1,5 @@
 ## Pricing Card CSS Challenge
 
-This is part of my () on YouTube.
+This is part of my CSS Practice Challenge on YouTube.
 
-The challenge is from [Frontend Mentor]().
+The challenge is to create a Pricing Card.
